@@ -1,0 +1,521 @@
+{
+  "sections": {
+    "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c": {
+      "type": "slideshow",
+      "blocks": {
+        "742a3693-7d5d-4e92-914c-270e1d777d11": {
+          "type": "slide_base",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/002fashion-slideshow-01.jpg",
+            "url": "",
+            "color_scheme": "scheme-3",
+            "heading": "Summer Style  <br>Sensations",
+            "heading_fs": "h1",
+            "heading_fw": "normal",
+            "sub_heading": "Discover the hottest trends and must-have looks",
+            "sub_heading_fs": "h6",
+            "sub_heading_fw": "normal",
+            "btn_label": "Shop collection",
+            "btn_link": "shopify:\/\/collections\/frontpage",
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1",
+            "content_position": "center-start",
+            "alignment": "left",
+            "content_position_mb": "center-start",
+            "alignment_mb": "center"
+          }
+        },
+        "efc1ab5b-499d-436b-a566-d68ba05bc446": {
+          "type": "slide_base",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/002fashion-slideshow-02.jpg",
+            "url": "",
+            "color_scheme": "scheme-3",
+            "heading": "Youthful <br>Summer style",
+            "heading_fs": "h1",
+            "heading_fw": "normal",
+            "sub_heading": "Discover the hottest trends and must-have looks",
+            "sub_heading_fs": "h6",
+            "sub_heading_fw": "normal",
+            "btn_label": "Shop collection",
+            "btn_link": "shopify:\/\/collections\/frontpage",
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1",
+            "content_position": "center-start",
+            "alignment": "left",
+            "content_position_mb": "center-start",
+            "alignment_mb": "center"
+          }
+        },
+        "b4049a29-d498-44ca-8ba4-fcb742b35544": {
+          "type": "slide_base",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/002fashion-slideshow-03.jpg",
+            "url": "",
+            "color_scheme": "scheme-3",
+            "heading": "Gentle <br>Summer style",
+            "heading_fs": "h1",
+            "heading_fw": "normal",
+            "sub_heading": "Discover the hottest trends and must-have looks",
+            "sub_heading_fs": "h6",
+            "sub_heading_fw": "normal",
+            "btn_label": "Shop collection",
+            "btn_link": "shopify:\/\/collections\/frontpage",
+            "btn_size": "xl",
+            "btn_style": "solid",
+            "btn_fw": "medium",
+            "btn_icon": "1",
+            "content_position": "center-start",
+            "alignment": "left",
+            "content_position_mb": "center-start",
+            "alignment_mb": "center"
+          }
+        }
+      },
+      "block_order": [
+        "742a3693-7d5d-4e92-914c-270e1d777d11",
+        "efc1ab5b-499d-436b-a566-d68ba05bc446",
+        "b4049a29-d498-44ca-8ba4-fcb742b35544"
+      ],
+      "custom_css": [
+        ".hdt-slideshow .slide-item_base .hdt-slide_subheading {color: rgb(var(--color-foreground));}"
+      ],
+      "settings": {
+        "full_width": true,
+        "item_round": "rounded",
+        "image_height": "adapt_image",
+        "fixed_height": 860,
+        "image_height_mb": "fixed",
+        "fixed_height_mb": 300,
+        "color_scheme": "",
+        "loop": false,
+        "auto_play": 0,
+        "pause_hover": false,
+        "navUI": false,
+        "dotUI": true,
+        "dot_style": "bg_active",
+        "dot_direction": "horizontal",
+        "dot_align": "start",
+        "dot_space": 40,
+        "padding_top": 0,
+        "padding_bottom": 73,
+        "padding_rate": 75
+      }
+    },
+    "282a0160-505d-43ff-b601-043a5a327bc1": {
+      "type": "collections-list",
+      "blocks": {
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "frontpage",
+            "image": "shopify:\/\/shop_images\/b1.jpg",
+            "title": "Clothing",
+            "collection_link": ""
+          }
+        },
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "fashion-accessories",
+            "image": "shopify:\/\/shop_images\/cate2.jpg",
+            "title": "Sunglasses",
+            "collection_link": ""
+          }
+        },
+        "4fb04760-f15f-40fb-9566-65e01d74325b": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "womens-fashion",
+            "image": "shopify:\/\/shop_images\/cate3_5a91e60c-3356-4035-8640-4b36a3f989fe.jpg",
+            "title": "Bags",
+            "collection_link": ""
+          }
+        },
+        "64391ffc-c043-4f35-a51e-da90b7143a42": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "mens-fashion",
+            "title": "Fashion",
+            "collection_link": ""
+          }
+        },
+        "72a99e49-16d6-4138-83a1-4f452229667b": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "fashion-accessories",
+            "title": "Accessories",
+            "collection_link": ""
+          }
+        },
+        "666bec38-cee5-4282-94d2-8eadd2c4dbd0": {
+          "type": "view_all",
+          "settings": {
+            "title": "Discovery <br>all new items",
+            "item_link": "shopify:\/\/collections"
+          }
+        },
+        "3ffba31e-7548-4ca7-860c-865965621509": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "tee",
+            "title": "",
+            "collection_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-1",
+        "template--20958100226352__282a0160-505d-43ff-b601-043a5a327bc1-collection_item-2",
+        "4fb04760-f15f-40fb-9566-65e01d74325b",
+        "64391ffc-c043-4f35-a51e-da90b7143a42",
+        "72a99e49-16d6-4138-83a1-4f452229667b",
+        "666bec38-cee5-4282-94d2-8eadd2c4dbd0",
+        "3ffba31e-7548-4ca7-860c-865965621509"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading_align": "hdt-align-center",
+        "sec_heading": "SHOP BY CATEGORIES",
+        "heading_tag": "h3",
+        "heading_size": "text-lg",
+        "heading_weight": "bold",
+        "sec_subheading": "",
+        "subheading_size": "hdt-text-base",
+        "btn_heading_collection": false,
+        "sec_heading_spacing": 33,
+        "collection_list": [
+
+        ],
+        "collection_des": "1",
+        "content_size": "xl",
+        "content_weight": "medium",
+        "text_transform": false,
+        "content_position": "end-start",
+        "content_padding": 30,
+        "image_ratio": "asos",
+        "image_size": true,
+        "col_dk": "3",
+        "col_tb": "2",
+        "col_mb": "2",
+        "space_items": "x",
+        "half_item": false,
+        "navUI": true,
+        "nav_des": "outline",
+        "nav_pos": "ontop_left",
+        "dotUI": false,
+        "dots_pos": "default",
+        "section_fullwidth": true,
+        "boxed_fullwidth": true,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "c3de30a0-a5a3-4833-b410-db3eb62869a8": {
+      "type": "image-with-text",
+      "blocks": {
+        "b603e866-f6d9-418f-a8b8-d283e7ea8fa2": {
+          "type": "label",
+          "settings": {
+            "label": "SPRING SALE 30% OFF",
+            "label_fs": "base"
+          }
+        },
+        "80e80618-2d83-4047-afa3-1eac36d0cd64": {
+          "type": "heading",
+          "settings": {
+            "heading": "Effortless <br> Denim Delights",
+            "heading_fs": "h3"
+          }
+        },
+        "21e390af-b4dd-47c6-8701-7358ea128e9d": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "Discover the versatility of denim with our collection of jeans, jackets",
+            "sub_fs": "lg"
+          }
+        },
+        "f00d7168-f8cd-4abd-8f73-37f729c754a5": {
+          "type": "button",
+          "settings": {
+            "btn_label": "Shop collection",
+            "btn_link": "shopify:\/\/collections",
+            "btn_style": "solid",
+            "btn_fw": "semibold",
+            "btn_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "b603e866-f6d9-418f-a8b8-d283e7ea8fa2",
+        "80e80618-2d83-4047-afa3-1eac36d0cd64",
+        "21e390af-b4dd-47c6-8701-7358ea128e9d",
+        "f00d7168-f8cd-4abd-8f73-37f729c754a5"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/b2.jpg",
+        "style_image": "1",
+        "color_scheme": "scheme-3",
+        "image_last": true,
+        "content_position": "center-start",
+        "alignment": "left",
+        "content_pl": 0,
+        "image_last_mb": false,
+        "content_position_mb": "center",
+        "alignment_mb": "center",
+        "padding_top": 17,
+        "padding_bottom": 93,
+        "padding_rate": 75
+      }
+    },
+    "f8ef40fe-7063-4cf5-a5f4-a2207bbd24ff": {
+      "type": "featured-collection-carousel",
+      "settings": {
+        "heading_align": "start",
+        "sec_heading": "Best seller",
+        "heading_tag": "h4",
+        "heading_size": "h4",
+        "sec_subheading": "",
+        "btn_heading": false,
+        "nav_heading": "simple",
+        "sec_heading_spacing": 66,
+        "collection": "frontpage",
+        "product_list": [
+          "cotton-jersey-top",
+          "ribbed-tank-top",
+          "ribbed-modal-t-shirt",
+          "oversized-motif-t-shirt",
+          "oversized-printed-t-shirt",
+          "oversized-fit-overshirt",
+          "jersey-thong-body"
+        ],
+        "product_des": "1",
+        "image_ratio": "adapt_image",
+        "image_size": true,
+        "show_vendor": false,
+        "pr_border": "none",
+        "products_count": 8,
+        "col_dk": "4",
+        "col_tb": "3",
+        "col_mb": "2",
+        "half_item": false,
+        "navUI": false,
+        "nav_des": "default",
+        "nav_pos": "middle_in",
+        "dotUI": false,
+        "use_pagination": "none",
+        "paginate_pos": "center",
+        "dis_pagination": 30,
+        "btn_label": "View all",
+        "btn_style": "solid",
+        "btn_fw": "normal",
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "5a75954e-0672-460a-9a96-1f07a182b8d7": {
+      "type": "lookbook-carousel",
+      "blocks": {
+        "6edb3aab-1d14-4f47-9430-cade7305ef94": {
+          "type": "lookbook_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lookbook1_a2b14dbf-9aac-4404-8a90-37c152c76cc8.jpg",
+            "product": "wild-one-triangle-tug",
+            "pos_top": 63,
+            "pos_left": 45,
+            "product1": "ribbed-tank-top",
+            "pos_top1": 90,
+            "pos_left1": 62,
+            "product2": "",
+            "pos_top2": 50,
+            "pos_left2": 50,
+            "product3": "",
+            "pos_top3": 50,
+            "pos_left3": 50
+          }
+        },
+        "5126238c-4a21-46ad-b07e-17524e535f60": {
+          "type": "lookbook_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lookbook2_26046a38-1b11-48a4-8ddb-9ae800c340b7.jpg",
+            "product": "stillkissen-rosa",
+            "pos_top": 20,
+            "pos_left": 58,
+            "product1": "",
+            "pos_top1": 50,
+            "pos_left1": 50,
+            "product2": "",
+            "pos_top2": 50,
+            "pos_left2": 50,
+            "product3": "",
+            "pos_top3": 50,
+            "pos_left3": 50
+          }
+        }
+      },
+      "block_order": [
+        "6edb3aab-1d14-4f47-9430-cade7305ef94",
+        "5126238c-4a21-46ad-b07e-17524e535f60"
+      ],
+      "settings": {
+        "top_heading": "Shop the look",
+        "heading_tag": "h4",
+        "top_description": "Inspire and let yourself be inspired, from one unique fashion to another.",
+        "margin-heading_bottom": 60,
+        "image_ratio": "adapt_image",
+        "item_show": "2",
+        "color_scheme": "",
+        "placement": "top",
+        "navigate_style": "normal",
+        "navUI": true,
+        "dotUI": false,
+        "padding_top": 40,
+        "padding_bottom": 100,
+        "padding_rate": 75
+      }
+    },
+    "0927150f-d3c7-4e7d-8314-a9010834d401": {
+      "type": "store-tabs",
+      "blocks": {
+        "template--21177704022320__0927150f-d3c7-4e7d-8314-a9010834d401-store_item-1": {
+          "type": "store_item",
+          "settings": {
+            "title": "Hongkong",
+            "heading": "Hongkong Store",
+            "description": "<p>301 Front St WToronto,<br\/>Canadasupport@novela.com<br\/>(08) 8942 1299<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday Closed<\/p>",
+            "btn_label": "Get Directions",
+            "link": "shopify:\/\/pages\/contact-1",
+            "image": "shopify:\/\/shop_images\/store1_0c7d8232-3733-4811-b50c-c027b54f8b3c.jpg"
+          }
+        },
+        "8cda8a00-4ed1-4f44-aedf-b61effb5a9ff": {
+          "type": "store_item",
+          "settings": {
+            "title": "London",
+            "heading": "London Store",
+            "description": "<p>301 Front St WToronto,<br\/>Canadasupport@novela.com<br\/>(08) 8942 1299<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday Closed<\/p>",
+            "btn_label": "Get Directions",
+            "link": "shopify:\/\/pages\/contact-1",
+            "image": "shopify:\/\/shop_images\/ourstore.png"
+          }
+        },
+        "25d66d04-caf1-4868-8b25-ae485178e4f0": {
+          "type": "store_item",
+          "settings": {
+            "title": "Paris",
+            "heading": "Paris Store",
+            "description": "<p>301 Front St WToronto,<br\/>Canadasupport@novela.com<br\/>(08) 8942 1299<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday Closed<\/p>",
+            "btn_label": "Get Directions",
+            "link": "shopify:\/\/pages\/contact-1",
+            "image": "shopify:\/\/shop_images\/ourstore3.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--21177704022320__0927150f-d3c7-4e7d-8314-a9010834d401-store_item-1",
+        "8cda8a00-4ed1-4f44-aedf-b61effb5a9ff",
+        "25d66d04-caf1-4868-8b25-ae485178e4f0"
+      ],
+      "settings": {
+        "section_fullwidth": false,
+        "color_scheme": "scheme-2",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_rate": 75
+      }
+    },
+    "f2277603-c6cc-4c58-819e-534a763032ee": {
+      "type": "brands",
+      "blocks": {
+        "b4d47d02-d0b8-42d9-9a57-52ff11b8d67e": {
+          "type": "brand_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector_9.png",
+            "url": ""
+          }
+        },
+        "fda49877-f309-4b9f-a2c4-2b5069681738": {
+          "type": "brand_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector_10.png",
+            "url": ""
+          }
+        },
+        "305b2111-9de1-4d50-abd1-2e61d36cddbb": {
+          "type": "brand_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector_11.png",
+            "url": ""
+          }
+        },
+        "4e6bbe95-789d-468a-a734-b93c46ddb6f9": {
+          "type": "brand_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector_12.png",
+            "url": ""
+          }
+        },
+        "1ba80256-fa3a-4d72-bcb3-7e2956ef7d91": {
+          "type": "brand_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector_13.png",
+            "url": ""
+          }
+        },
+        "e893c055-7157-4ac1-8727-6c7a1cbc7b29": {
+          "type": "brand_item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector_14.png",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "b4d47d02-d0b8-42d9-9a57-52ff11b8d67e",
+        "fda49877-f309-4b9f-a2c4-2b5069681738",
+        "305b2111-9de1-4d50-abd1-2e61d36cddbb",
+        "4e6bbe95-789d-468a-a734-b93c46ddb6f9",
+        "1ba80256-fa3a-4d72-bcb3-7e2956ef7d91",
+        "e893c055-7157-4ac1-8727-6c7a1cbc7b29"
+      ],
+      "settings": {
+        "top_heading": "",
+        "heading_tag": "h3",
+        "top_description": "",
+        "color_scheme": "",
+        "margin-heading_bottom": 0,
+        "border_item": false,
+        "url_target": "_self",
+        "navUI": false,
+        "dotUI": false,
+        "col_dk": "6",
+        "animated": "none",
+        "col_tb": "3",
+        "col_mb": "2",
+        "padding_top": 70,
+        "padding_bottom": 70,
+        "padding_rate": 75
+      }
+    }
+  },
+  "order": [
+    "c28ddbdb-d0df-4b86-9b0a-674df42ecc5c",
+    "282a0160-505d-43ff-b601-043a5a327bc1",
+    "c3de30a0-a5a3-4833-b410-db3eb62869a8",
+    "f8ef40fe-7063-4cf5-a5f4-a2207bbd24ff",
+    "5a75954e-0672-460a-9a96-1f07a182b8d7",
+    "0927150f-d3c7-4e7d-8314-a9010834d401",
+    "f2277603-c6cc-4c58-819e-534a763032ee"
+  ]
+}

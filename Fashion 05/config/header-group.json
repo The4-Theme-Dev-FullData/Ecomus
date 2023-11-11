@@ -1,0 +1,143 @@
+{
+  "type": "header",
+  "name": "Header Group",
+  "sections": {
+    "announcement": {
+      "type": "announcement-bar",
+      "blocks": {
+        "d3a77813-9e08-4c85-b45b-a40a71f98cd9": {
+          "type": "announcement",
+          "settings": {
+            "text": "Fashion Frenzy: Up to 60% off on all styles"
+          }
+        },
+        "3783cde6-5e90-44d9-bb12-89dcfbbb5640": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store"
+          }
+        }
+      },
+      "block_order": [
+        "d3a77813-9e08-4c85-b45b-a40a71f98cd9",
+        "3783cde6-5e90-44d9-bb12-89dcfbbb5640"
+      ],
+      "settings": {
+        "design": "slider",
+        "color_scheme": "scheme-5d0ce42f-f31c-469d-8f1e-2e46606a7ee9",
+        "show_close_btn": true,
+        "show_line_separator": false,
+        "adding_border": false,
+        "au_time": 3.5,
+        "slider_pause_when_hover": false,
+        "speed": 0.3,
+        "direction": "ltr",
+        "marquee_pause_when_hover": false
+      }
+    },
+    "header": {
+      "type": "header-inline",
+      "blocks": {
+        "8f000a3c-c9eb-43f4-9a1a-8023ce42fa1e": {
+          "type": "html",
+          "settings": {
+            "title": "Home",
+            "html": "",
+            "page": "demos-short",
+            "mega_menu_colors": "",
+            "mega_position": "center_on_screen",
+            "mega_width": "full",
+            "mega_custom_width": 1200
+          }
+        },
+        "d9229f50-8afa-4417-8bf2-eb9f560171a6": {
+          "type": "mega_shop",
+          "settings": {
+            "title": "Shop",
+            "collection_list": [
+              "mens-fashion",
+              "womens-fashion"
+            ],
+            "image_ratio": "asos",
+            "image_size": false,
+            "mega_menu_colors": "",
+            "mega_position": "default",
+            "mega_width": "1200",
+            "mega_custom_width": 1200
+          }
+        },
+        "a503e0d7-367d-45ea-9298-fe6e14683f79": {
+          "type": "mega_product",
+          "settings": {
+            "title": "Products",
+            "product_list": [
+              "jersey-thong-body",
+              "mini-crossbody-bag",
+              "oversized-printed-t-shirt",
+              "regular-fit-cotton-shorts",
+              "relaxed-fit-jersey-shirt"
+            ],
+            "product_des": "1",
+            "image_ratio": "asos",
+            "image_size": true,
+            "mega_menu_colors": "",
+            "mega_position": "default",
+            "mega_width": "1200",
+            "mega_custom_width": 1200
+          }
+        },
+        "46a3191f-a3ab-4661-a59b-167e0743a9e5": {
+          "type": "mega_page",
+          "settings": {
+            "title": "Pages",
+            "mega_menu_colors": "",
+            "mega_position": "default",
+            "mega_width": "1200",
+            "mega_custom_width": 1200
+          }
+        }
+      },
+      "block_order": [
+        "8f000a3c-c9eb-43f4-9a1a-8023ce42fa1e",
+        "d9229f50-8afa-4417-8bf2-eb9f560171a6",
+        "a503e0d7-367d-45ea-9298-fe6e14683f79",
+        "46a3191f-a3ab-4661-a59b-167e0743a9e5"
+      ],
+      "settings": {
+        "header_layout": "logo_left",
+        "header_fullwidth": true,
+        "header_height": 94,
+        "logo": "shopify:\/\/shop_images\/logo-black2.svg",
+        "logo_width": 136,
+        "header_colors": "scheme-1",
+        "main_menu": "main-menu",
+        "menu_position": "center",
+        "menu_size": "lg",
+        "menu_weight": "medium",
+        "text_transform": false,
+        "dropdown_arrow": true,
+        "active_link": false,
+        "spacing_nav": 32,
+        "open_event": "hover",
+        "header_menu_colors": "scheme-1",
+        "enabled_user": true,
+        "enabled_compare": false,
+        "enabled_wishlist": true,
+        "header_height_mb": 64,
+        "logo_width_mb": 110,
+        "main_menu_mobile": "",
+        "only_click_icon": false,
+        "header_mobile_colors": "",
+        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base hdt-font-medium\" style=\"border-bottom: solid 1px rgb(var(--color-foreground) \/ .5);margin-bottom: 11px\">Need help ? <\/span><span class=\"hdt-flex hdt-flex-col hdt-text-base hdt-font-medium\" style=\"line-height: 24px;\"><span>Address: 1234 Fashion Street, Suite 567,<br> New York, NY 10001 <\/span><span>Email: <b>info@fashionshop.com <\/b><\/span><span>Phone: <b>(212) 555-1234<\/b><\/span><\/span>",
+        "header_transparent": true,
+        "logo_transparent": "shopify:\/\/shop_images\/Ecomus_-_white.svg",
+        "header_transparent_colors": "scheme-3ff2236d-5f8f-4893-9d65-b2247340668d",
+        "sticky_type": "on_scroll_up"
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header"
+  ]
+}
