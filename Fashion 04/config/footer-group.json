@@ -10,9 +10,9 @@
           "settings": {
             "border-column": false,
             "heading_sm": "",
-            "image_sm": "shopify:\/\/shop_images\/logo_ecomus_white.svg",
+            "image_sm": "shopify:\/\/shop_images\/Ecomus_-_white.svg",
             "image_w": 136,
-            "html_content": "<p>Address: 1234 Fashion Street, Suite 567,New York, NY<\/p><p>Email: info@fashionshop.com<\/p><p>Phone: (212)555-1234<\/p>",
+            "html_content": "<p>Address: 1234 Fashion Street, Suite 567, <br\/>New York, NY<\/p><p>Email: info@fashionshop.com<\/p><p>Phone: (212)555-1234<\/p>",
             "adding_border": false,
             "btn_label": "Get direction",
             "btn_link": "shopify:\/\/pages\/contact",
@@ -65,7 +65,7 @@
         "sections--20958099472688__8b1cf2b6-9e6b-4ace-85e5-e52ad96e7b43-newsletter-1"
       ],
       "custom_css": [
-        ".hdt-text-newsletter{line-height:var(--spacing-2-4);}"
+        ".hdt-text-newsletter {line-height: var(--spacing-2-4);}"
       ],
       "settings": {
         "border-f": "bottom",

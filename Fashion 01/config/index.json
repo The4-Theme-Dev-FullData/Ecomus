@@ -33,7 +33,7 @@
             "image": "shopify:\/\/shop_images\/001fashion-slideshow-02.jpg",
             "url": "",
             "color_scheme": "scheme-1",
-            "heading": "Glamorous <br>Glam",
+            "heading": "Simple <br>Style",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "From casual to formal, we've got you covered",
@@ -57,7 +57,7 @@
             "image": "shopify:\/\/shop_images\/001fashion-slideshow-03.jpg",
             "url": "",
             "color_scheme": "scheme-1",
-            "heading": "Glamorous <br>Glam",
+            "heading": "Discreet  <br>style",
             "heading_fs": "h1",
             "heading_fw": "normal",
             "sub_heading": "From casual to formal, we've got you covered",
@@ -496,7 +496,7 @@
         "col_mb": "1",
         "navUI": true,
         "nav_pos": "middle__out",
-        "nav_des": "outline",
+        "nav_des": "default",
         "dotUI": false,
         "dis_dot": 30,
         "color_scheme": "scheme-c21688ce-50dc-4168-89ce-9c50fb34da15",
@@ -539,7 +539,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/im4.jpg",
             "item_link": "",
-            "product_item": "capri-fiore-lowtop-men-koio-shoes"
+            "product_item": "campo-chromefree-leather"
           }
         },
         "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-2": {
@@ -635,7 +635,7 @@
             "icon_width_mb": 30,
             "link": "",
             "open_link": false,
-            "title": "Premium Suport",
+            "title": "Premium Support",
             "content": "<p>Outstanding premium support<\/p>",
             "adding_border": false
           }
@@ -666,7 +666,7 @@
         "icon_pos_center_mb": true,
         "icon_circle": true,
         "space_icon_heading": "medium",
-        "size_heading": "small",
+        "size_heading": "medium",
         "heading_uppercase": false,
         "space_heading_content": "small",
         "col_dk": "4",

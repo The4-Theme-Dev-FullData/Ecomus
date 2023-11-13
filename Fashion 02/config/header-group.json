@@ -2,21 +2,6 @@
   "type": "header",
   "name": "Header Group",
   "sections": {
-    "announcement": {
-      "type": "announcement-bar",
-      "settings": {
-        "design": "slider",
-        "color_scheme": "",
-        "show_close_btn": true,
-        "show_line_separator": false,
-        "adding_border": false,
-        "au_time": 3.5,
-        "slider_pause_when_hover": false,
-        "speed": 0.3,
-        "direction": "ltr",
-        "marquee_pause_when_hover": false
-      }
-    },
     "top": {
       "type": "top-bar",
       "blocks": {
@@ -30,9 +15,9 @@
         "b56798bf-2adf-4c22-a5ef-edab44b0938c": {
           "type": "text",
           "settings": {
-            "text1": "Spring Fashion Sale: Time to refresh your wardrobe. <a href=\"\/collections\" title=\"All collections\">Shop now [icon_arrow]<\/a>",
+            "text1": "Spring Fashion Sale <a href=\"\/collections\" title=\"All collections\">Shop now [icon_arrow]<\/a>",
             "text2": "Summer sale discount off 70%",
-            "text3": "",
+            "text3": "Time to refresh your wardrobe.",
             "adding_border": true,
             "au_time": 3.5,
             "pause_when_hover": false,
@@ -54,6 +39,9 @@
         "b56798bf-2adf-4c22-a5ef-edab44b0938c",
         "82c1e9db-f880-462a-a981-5ecb82db9077"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "color_scheme": "",
         "show_line_separator": true
@@ -68,7 +56,7 @@
             "title": "Home",
             "html": "",
             "page": "demos-short",
-            "mega_menu_colors": "",
+            "mega_menu_colors": "scheme-3",
             "mega_position": "center_on_screen",
             "mega_width": "full",
             "mega_custom_width": 1200
@@ -94,6 +82,7 @@
           "type": "mega_product",
           "settings": {
             "title": "Products",
+            "product_list_title": "BEST SELLER",
             "product_list": [
               "jersey-thong-body",
               "mini-crossbody-bag",
@@ -101,7 +90,6 @@
               "regular-fit-cotton-shorts",
               "relaxed-fit-jersey-shirt"
             ],
-            "product_des": "1",
             "image_ratio": "asos",
             "image_size": true,
             "mega_menu_colors": "",
@@ -144,12 +132,15 @@
         "spacing_nav": 32,
         "open_event": "hover",
         "header_menu_colors": "",
+        "enabled_user": true,
+        "enabled_compare": false,
+        "enabled_wishlist": true,
         "header_height_mb": 64,
         "logo_width_mb": 110,
         "main_menu_mobile": "",
         "only_click_icon": false,
         "header_mobile_colors": "",
-        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base hdt-font-medium\" style=\"border-bottom: solid 1px rgb(var(--color-foreground) \/ .5);margin-bottom: 11px\">Need help ? <\/span><span class=\"hdt-flex hdt-flex-col hdt-text-base hdt-font-medium\" style=\"line-height: 24px;\"><span>Address: 1234 Fashion Street, Suite 567,<br> New York, NY 10001 <\/span><span>Email: <b>info@fashionshop.com <\/b><\/span><span>Phone: <b>(212) 555-1234<\/b><\/span><\/span>",
+        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base hdt-font-medium\" style=\"color: rgb(var(--color-foreground));border-bottom: solid 1px rgb(var(--color-foreground));margin-bottom: 11px;\"><a href=\"https:\/\/demo-ecomus-global.myshopify.com\/pages\/contact-1\">Need help ?<\/a><\/span><span class=\"hdt-flex hdt-flex-col hdt-text-base hdt-font-normal\" style=\"line-height: 24px;\"><span>Address: 1234 Fashion Street, Suite 567,<br> New York, NY 10001 <\/span><span>Email: <b>info@fashionshop.com <\/b><\/span><span>Phone: <b>(212) 555-1234<\/b><\/span><\/span>",
         "header_transparent": false,
         "header_transparent_colors": "",
         "sticky_type": "on_scroll_up"
@@ -157,7 +148,6 @@
     }
   },
   "order": [
-    "announcement",
     "top",
     "header"
   ]

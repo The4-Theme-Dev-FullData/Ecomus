@@ -100,7 +100,7 @@
         "dot_style": "bg_active",
         "dot_direction": "horizontal",
         "dot_align": "start",
-        "dot_space": 40,
+        "dot_space": 76,
         "padding_top": 0,
         "padding_bottom": 73,
         "padding_rate": 75
@@ -158,14 +158,6 @@
             "title": "Discovery <br>all new items",
             "item_link": "shopify:\/\/collections"
           }
-        },
-        "3ffba31e-7548-4ca7-860c-865965621509": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "tee",
-            "title": "",
-            "collection_link": ""
-          }
         }
       },
       "block_order": [
@@ -174,8 +166,7 @@
         "4fb04760-f15f-40fb-9566-65e01d74325b",
         "64391ffc-c043-4f35-a51e-da90b7143a42",
         "72a99e49-16d6-4138-83a1-4f452229667b",
-        "666bec38-cee5-4282-94d2-8eadd2c4dbd0",
-        "3ffba31e-7548-4ca7-860c-865965621509"
+        "666bec38-cee5-4282-94d2-8eadd2c4dbd0"
       ],
       "custom_css": [
 
@@ -311,7 +302,7 @@
         "nav_des": "default",
         "nav_pos": "middle_in",
         "dotUI": false,
-        "use_pagination": "none",
+        "pagination_type": "none",
         "paginate_pos": "center",
         "dis_pagination": 30,
         "btn_label": "View all",
@@ -393,7 +384,7 @@
           "settings": {
             "title": "Hongkong",
             "heading": "Hongkong Store",
-            "description": "<p>301 Front St WToronto,<br\/>Canadasupport@novela.com<br\/>(08) 8942 1299<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday Closed<\/p>",
+            "description": "<p>301 Front St WToronto,<br\/>Ecomussupport.com<br\/>(08) 8942 1299<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday Closed<\/p>",
             "btn_label": "Get Directions",
             "link": "shopify:\/\/pages\/contact-1",
             "image": "shopify:\/\/shop_images\/store1_0c7d8232-3733-4811-b50c-c027b54f8b3c.jpg"
@@ -404,7 +395,7 @@
           "settings": {
             "title": "London",
             "heading": "London Store",
-            "description": "<p>301 Front St WToronto,<br\/>Canadasupport@novela.com<br\/>(08) 8942 1299<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday Closed<\/p>",
+            "description": "<p>301 Front St WToronto,<br\/>LondonEcomus@ecom.com<br\/>(08) 8942 1299<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday Closed<\/p>",
             "btn_label": "Get Directions",
             "link": "shopify:\/\/pages\/contact-1",
             "image": "shopify:\/\/shop_images\/ourstore.png"
@@ -415,7 +406,7 @@
           "settings": {
             "title": "Paris",
             "heading": "Paris Store",
-            "description": "<p>301 Front St WToronto,<br\/>Canadasupport@novela.com<br\/>(08) 8942 1299<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday Closed<\/p>",
+            "description": "<p>301 Front St WToronto,<br\/>ParisEcomus@email.com<br\/>(08) 8942 1299<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday Closed<\/p>",
             "btn_label": "Get Directions",
             "link": "shopify:\/\/pages\/contact-1",
             "image": "shopify:\/\/shop_images\/ourstore3.png"

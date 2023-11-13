@@ -17,6 +17,7 @@
     "input_radius": 3,
     "block_radius": 0,
     "collection_card_radius": 3,
+    "enable_compare": true,
     "animations_reveal_on_scroll": true,
     "animations_hover_elements": "3d-lift",
     "social_facebook_link": "https:\/\/facebook.com\/shopify",
@@ -35,13 +36,13 @@
     "search_quick_link": "search-quick-link",
     "products_suggest": [
       "cotton-jersey-top",
-      "jersey-thong-body",
       "mini-crossbody-bag",
       "oversized-printed-t-shirt",
       "oversized-motif-t-shirt",
       "oversized-fit-overshirt"
     ],
     "currency_code_enabled": true,
+    "favicon": "shopify:\/\/shop_images\/Favicon.svg",
     "only_search_prs": false,
     "body_scale": 100,
     "logo_width": 90,
@@ -145,18 +146,6 @@
           "show_txt": true
         }
       },
-      "mini-cart": {
-        "type": "mini-cart",
-        "settings": {
-          "color_scheme": "",
-          "enable_pr_recommed": true,
-          "enable_note": true,
-          "enable_gift_wrap": true,
-          "enable_rates": true,
-          "enable_discount": true,
-          "ship_df_country": "United States"
-        }
-      },
       "main-heading": {
         "type": "main-heading",
         "blocks": {
@@ -207,7 +196,7 @@
           "price": "#000000",
           "sale_price": "#db1215",
           "input_primary": "#ffffff",
-          "input_secondary": "#ebebeb"
+          "input_secondary": "#000000"
         }
       },
       "scheme-2": {
@@ -240,7 +229,7 @@
           "button": "#ffffff",
           "button_label": "#000000",
           "button_border": "#ffffff",
-          "secondary_button_label": "#000000",
+          "secondary_button_label": "#ffffff",
           "line_border": "#eeeeee",
           "overlay": "rgba(0,0,0,0)",
           "pr_text": "#000000",
@@ -319,7 +308,7 @@
           "background2": "#ffffff",
           "button": "#ffffff",
           "button_label": "#000000",
-          "button_border": "#FFFFFF",
+          "button_border": "#ffffff",
           "secondary_button_label": "#000000",
           "line_border": "#ebebeb",
           "overlay": "#000000",
@@ -348,6 +337,26 @@
           "sale_price": "#db1215",
           "input_primary": "#ffffff",
           "input_secondary": "#ebebeb"
+        }
+      },
+      "scheme-0c64daf8-ffe8-43f9-a5aa-99eacc2650f0": {
+        "settings": {
+          "text": "#000000",
+          "text2": "#545454",
+          "background": "#ffffff",
+          "background_gradient": "",
+          "background2": "#ffffff",
+          "button": "#ffffff",
+          "button_label": "#000000",
+          "button_border": "#000000",
+          "secondary_button_label": "#000000",
+          "line_border": "#eeeeee",
+          "overlay": "#000000",
+          "pr_text": "#545454",
+          "price": "#000000",
+          "sale_price": "#db1215",
+          "input_primary": "#ffffff",
+          "input_secondary": "#000000"
         }
       }
     }

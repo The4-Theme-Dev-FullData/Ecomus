@@ -29,17 +29,17 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
-    "search_fullwidth": true,
+    "search_fullwidth": false,
     "search_quick_link": "search-quick-link",
     "products_suggest": [
       "cotton-jersey-top",
-      "jersey-thong-body",
       "mini-crossbody-bag",
       "oversized-printed-t-shirt",
       "oversized-motif-t-shirt",
       "oversized-fit-overshirt"
     ],
     "currency_code_enabled": true,
+    "favicon": "shopify:\/\/shop_images\/Favicon.svg",
     "only_search_prs": false,
     "body_scale": 100,
     "logo_width": 90,
@@ -142,18 +142,6 @@
           "color_scheme": "",
           "show_txt": true
         }
-      },
-      "mini-cart": {
-        "type": "mini-cart",
-        "settings": {
-          "color_scheme": "",
-          "enable_pr_recommed": true,
-          "enable_note": true,
-          "enable_gift_wrap": true,
-          "enable_rates": true,
-          "enable_discount": true,
-          "ship_df_country": "United States"
-        }
       }
     },
     "content_for_index": [
@@ -177,7 +165,7 @@
           "price": "#000000",
           "sale_price": "#db1215",
           "input_primary": "#ffffff",
-          "input_secondary": "#ebebeb"
+          "input_secondary": "#000000"
         }
       },
       "scheme-2": {
@@ -212,7 +200,7 @@
           "button_border": "#000000",
           "secondary_button_label": "#000000",
           "line_border": "#eeeeee",
-          "overlay": "#FFFFFF",
+          "overlay": "#ffffff",
           "pr_text": "#000000",
           "price": "#000000",
           "sale_price": "#db1215",

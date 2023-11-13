@@ -15,9 +15,9 @@
         "sections--21407527993664__3f35bd50-6ba1-4bbc-bace-3f9baa5be9ba-text-1": {
           "type": "text",
           "settings": {
-            "text1": "Spring Fashion Sale: Time to refresh your wardrobe. <a href=\"\/collections\" title=\"All collections\"><strong>Shop now[icon_arrow]<\/strong><\/a>",
+            "text1": "Spring Fashion Sale. <a href=\"\/collections\" title=\"All collections\"><strong>Shop now[icon_arrow]<\/strong><\/a>",
             "text2": "Spring sale discount off 50%",
-            "text3": "Summer sale discount off 70%",
+            "text3": "Time to refresh your wardrobe",
             "adding_border": true,
             "au_time": 3.5,
             "pause_when_hover": false,
@@ -79,6 +79,7 @@
           "type": "mega_product",
           "settings": {
             "title": "Products",
+            "product_list_title": "BEST SELLER",
             "product_list": [
               "jersey-thong-body",
               "mini-crossbody-bag",
@@ -86,7 +87,6 @@
               "regular-fit-cotton-shorts",
               "relaxed-fit-jersey-shirt"
             ],
-            "product_des": "1",
             "image_ratio": "asos",
             "image_size": true,
             "mega_menu_colors": "",
@@ -125,7 +125,7 @@
         "menu_weight": "medium",
         "text_transform": false,
         "dropdown_arrow": true,
-        "active_link": true,
+        "active_link": false,
         "spacing_nav": 32,
         "open_event": "hover",
         "header_menu_colors": "",
@@ -137,7 +137,7 @@
         "main_menu_mobile": "",
         "only_click_icon": false,
         "header_mobile_colors": "",
-        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base hdt-font-medium\" style=\"border-bottom: solid 1px rgb(var(--color-foreground) \/ .5);margin-bottom: 11px\">Need help ? <\/span><span class=\"hdt-flex hdt-flex-col hdt-text-base hdt-font-medium\" style=\"line-height: 24px;\"><span>Address: 1234 Fashion Street, Suite 567,<br> New York, NY 10001 <\/span><span>Email: <b>info@fashionshop.com <\/b><\/span><span>Phone: <b>(212) 555-1234<\/b><\/span><\/span>",
+        "note_mobile": "<span class=\"hdt-inline-flex hdt-text-base hdt-font-medium\" style=\"color: rgb(var(--color-foreground));border-bottom: solid 1px rgb(var(--color-foreground));margin-bottom: 11px;\"><a href=\"https:\/\/demo-ecomus-global.myshopify.com\/pages\/contact-1\">Need help ?<\/a><\/span><span class=\"hdt-flex hdt-flex-col hdt-text-base hdt-font-normal\" style=\"line-height: 24px;\"><span>Address: 1234 Fashion Street, Suite 567,<br> New York, NY 10001 <\/span><span>Email: <b>info@fashionshop.com <\/b><\/span><span>Phone: <b>(212) 555-1234<\/b><\/span><\/span>",
         "header_transparent": false,
         "header_transparent_colors": "scheme-3",
         "sticky_type": "on_scroll_up"

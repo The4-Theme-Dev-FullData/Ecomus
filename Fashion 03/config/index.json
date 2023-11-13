@@ -55,7 +55,8 @@
         "72a99e49-16d6-4138-83a1-4f452229667b"
       ],
       "custom_css": [
-
+        "@media (min-width: 768px) {.hdt-collection-style1 .hdt-collection-title {line-height: 54px; height: 54px; min-width: 100px; }}",
+        "@media (min-width: 1150px) {.hdt-collection-style1 .hdt-collection-title {line-height: 64px; height: 64px; min-width: 297px; }}"
       ],
       "settings": {
         "heading_align": "center",
@@ -71,7 +72,7 @@
 
         ],
         "collection_des": "1",
-        "content_size": "xl",
+        "content_size": "2xl",
         "content_weight": "medium",
         "text_transform": false,
         "content_position": "end-center",
@@ -140,8 +141,8 @@
         "hide_on_complete": false,
         "mess_complete": "",
         "color_scheme": "scheme-2",
-        "padding_top": 40,
-        "padding_bottom": 40,
+        "padding_top": 55,
+        "padding_bottom": 55,
         "padding_rate": 75
       }
     },
@@ -202,6 +203,8 @@
           "fashion-accessories"
         ],
         "text_transform": false,
+        "other_link_label": "View all categories",
+        "other_link": "shopify:\/\/collections",
         "section_fullwidth": false,
         "color_scheme": "scheme-3",
         "padding_top": 100,
@@ -256,21 +259,24 @@
       "blocks": {
         "2b070635-b868-4727-ad2f-a43ac4ac770a": {
           "type": "label",
+          "disabled": true,
           "settings": {
             "label": "SPRING COLLECTION"
           }
         },
         "44af34bf-db78-4529-9d22-90fa744fd57b": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "End of<br> Season Sale"
           }
         },
         "e3f46cf5-2439-4b86-8592-b10522df6b5d": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "btn_label": "Shop now",
-            "btn_link": "",
+            "btn_link": "shopify:\/\/collections\/womens-fashion",
             "btn_style": "solid",
             "btn_icon": "1"
           }
@@ -286,7 +292,7 @@
         "fixed_height": 860,
         "image_height_mb": "fixed",
         "fixed_height_mb": 500,
-        "video": "shopify:\/\/files\/videos\/3.mp4",
+        "video": "shopify:\/\/files\/videos\/production_id_4723077 (1080p).mp4",
         "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "color_scheme": "scheme-3",
         "content_position": "center-start",
@@ -307,9 +313,9 @@
             "heading": "",
             "content": "<p>“ It's been great working with this team, they provide great products and great customer service, If I could I would give them a perfect rating“<\/p>",
             "author": "Robert smith",
-            "pos": "Customer from USA",
+            "pos": "",
             "enable_verify": false,
-            "product": "",
+            "product": "adventure-binocular",
             "rating": 5
           }
         },
@@ -319,9 +325,9 @@
             "heading": "",
             "content": "<p>“ This fashion website is impressive! They offer a wide range of products and are committed to quality. The user-friendly interface and excellent customer service make shopping a breeze.<br\/>Highly recommended ! “<\/p>",
             "author": "Nabyy Taylor",
-            "pos": "Russia",
+            "pos": "",
             "enable_verify": false,
-            "product": "",
+            "product": "anatomical-pacifiers",
             "rating": 5
           }
         }
@@ -347,10 +353,10 @@
         "col_mb": "1",
         "navUI": true,
         "nav_pos": "middle__out",
-        "nav_des": "outline",
+        "nav_des": "default",
         "dotUI": false,
         "dis_dot": 30,
-        "color_scheme": "",
+        "color_scheme": "scheme-0c64daf8-ffe8-43f9-a5aa-99eacc2650f0",
         "pr_rating": "#ff7b54",
         "section_fullwidth": false,
         "padding_top": 0,
@@ -364,7 +370,7 @@
         "line_style": "solid",
         "line_width": 100,
         "line_height": 1,
-        "line_cl": "#EBEBEB",
+        "line_cl": "#ebebeb",
         "line_pos": "center",
         "section_fullwidth": true,
         "padding_top": 0,
@@ -404,7 +410,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/im4.jpg",
             "item_link": "",
-            "product_item": "capri-fiore-lowtop-men-koio-shoes"
+            "product_item": "campo-chromefree-leather"
           }
         },
         "template--20958100226352__2114b9b3-c579-4b90-90d4-7c53d71f6449-gallery_item-2": {
@@ -435,7 +441,7 @@
         "col_tb": "3",
         "col_mb": "2",
         "spacing_items": 10,
-        "navUI": false,
+        "navUI": true,
         "nav_des": "default",
         "dotUI": false,
         "section_fullwidth": false,
@@ -500,7 +506,7 @@
             "icon_width_mb": 30,
             "link": "",
             "open_link": false,
-            "title": "Premium Suport",
+            "title": "Premium Support",
             "content": "<p>Outstanding premium support<\/p>",
             "adding_border": false
           }

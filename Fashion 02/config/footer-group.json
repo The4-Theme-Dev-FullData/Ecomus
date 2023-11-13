@@ -31,9 +31,9 @@
             "border-column": true,
             "heading_sm": "Find us",
             "image_w": 136,
-            "html_content": "<p>Address:1234<\/p><p>Fashion Street, Suite 567,New York, NY<\/p><p>Email:info@fashionshop.com<\/p><p>Phone:(212)555-1234<\/p>",
+            "html_content": "<p>Find a location nearestyou. <\/p><p>See Our Stores<\/p><p>(08) 8942 <\/p><p>1299hello@domain.com<\/p>",
             "adding_border": false,
-            "btn_label": "Get direction",
+            "btn_label": "",
             "btn_link": "shopify:\/\/pages\/contact",
             "btn_fw": "normal",
             "enable_social": true,
@@ -83,7 +83,8 @@
         "section_fullwidth": false,
         "spacing_top": 0,
         "padding_top": 0,
-        "padding_bottom": 23
+        "padding_bottom": 23,
+        "padding_rate": 75
       }
     }
   },
